@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index.jsp
-    Created on : 23/09/2026, 4:45:46 a. m.
-    Author     : Asus 1
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -12,6 +6,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Cambios desde otra rama</h1>
     </body>
 </html>
