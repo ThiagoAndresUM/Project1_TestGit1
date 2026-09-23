@@ -6,6 +6,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Cambios desde otra rama</h1>
+        <h1>Cambios desde otra rama - fusion de ramas</h1>
     </body>
 </html>
