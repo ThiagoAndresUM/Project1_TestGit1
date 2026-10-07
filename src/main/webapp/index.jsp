@@ -7,5 +7,7 @@
     </head>
     <body>
         <h1>Cambios desde otra rama - fusion de ramas</h1>
+        <h3>Cambios en equipo2 - Clonación</h3>
+        
     </body>
 </html>
